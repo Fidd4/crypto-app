@@ -1,0 +1,20 @@
+{
+  "name": "crypto-app",
+  "version": "0.1.0",
+  "private": true,
+  "homepage": "https://Fidd4.github.io/crypto-app",
+  "dependencies": {
+    "bootstrap": "^4.0.0",
+    "react": "^16.2.0",
+    "react-dom": "^16.2.0",
+    "react-number-format": "^3.1.6",
+    "react-scripts": "1.1.1",
+    "reactstrap": "^5.0.0-beta"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
